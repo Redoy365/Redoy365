@@ -42,4 +42,4 @@ my works. Currently I am working on Python with machine learning.
 ## Examples of Work
 
 <img width="280" src="https://iq.opengenus.org/content/images/2019/07/obj_det.gif" />
-<img width="340" src="https://media1.giphy.com/media/lkdIhnHHnFma6xvICt/giphy.gif?cid=ecf05e47rpq27rz6f1twetirbdixitw7mtjj30qnzi5cbke8&rid=giphy.gif&ct=g" /
+<img width="280" src="https://4.bp.blogspot.com/-a5JS2_Z6Gg0/W8vZ52CBOqI/AAAAAAAALZo/UJnDIGM2vTsrQaxf_kd07Yvh92fCsiWGACLcBGAs/s400/animate_xlims_funatnimation_r.gif" />
