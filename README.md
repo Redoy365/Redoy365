@@ -1,14 +1,7 @@
-<p align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
-  <h2 align="center">GitHub Profile Trophy</h2>
-  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
-</p>
-
 ![I am a machine learning Job holder](https://media.licdn.com/dms/image/D5616AQG4IMaAXlwNdQ/profile-displaybackgroundimage-shrink_350_1400/0/1694415562400?e=1707350400&v=beta&t=EIlNFppxskQjabzFi5eLSrDGPaV03DwavmGRGJ2laIE)
 
 ### Hi there 👋, my name is MD.REDOY SARDER
 #### I am a machine learning Job holder
-
 
 I came into the IT sector in 2016 with a passion for website design.
 Since then I work in web site development , apps development
@@ -33,11 +26,12 @@ Skills: Python / Machine Learning / MySQL / Deep Learning
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redoy365)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Redoy365&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Redoy365/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Redoy365)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Redoy365&show_icons=true&count_private=true)    
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Redoy365)  
 
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+  <h2 align="center">GitHub Profile Trophy</h2>
+  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
+</p>
