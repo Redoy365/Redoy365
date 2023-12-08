@@ -1,7 +1,7 @@
 ![I am a machine learning Job holder](https://media.licdn.com/dms/image/D5616AQG4IMaAXlwNdQ/profile-displaybackgroundimage-shrink_350_1400/0/1694415562400?e=1707350400&v=beta&t=EIlNFppxskQjabzFi5eLSrDGPaV03DwavmGRGJ2laIE)
 
-### Hi there 👋, my name is MD.REDOY SARDER
-#### I am a machine learning Job holder
+  <h2 align="center">MD.REDOY SARDER</h2>
+  <p align="center">🏆 My name is MD.Redoy Sarder. I am a machine learning Job holder.</p>
 
 I came into the IT sector in 2016 with a passion for website design.
 Since then I work in web site development , apps development
@@ -9,14 +9,17 @@ and software development. I have no industry experience,
 but I have some portfolio. where I have presented
 my works. Currently I am working on Python with machine learning.
 
-Skills: Python / Machine Learning / MySQL / Deep Learning
+## Skills:
+ 🏆Python
+ 🏆Machine Learning
+ 🏆MySQL
+ 🏆Deep Learning
 
 - 🔭 I’m currently working on Kaggle 
 - 🌱 I’m currently learning Deep Learning 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Machine Learning 
 - 📫 How to reach me: https://redoy365.github.io/realtime/ 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Redoy365)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-redoy-70928b206//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/FreelancerRedoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://redoy365.github.io/realtime/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/syber_redoy_php)  
 
@@ -35,3 +38,7 @@ Skills: Python / Machine Learning / MySQL / Deep Learning
   <h2 align="center">GitHub Profile Trophy</h2>
   <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
 </p>
+
+## Examples of Work
+
+<img width="140" src="https://iq.opengenus.org/content/images/2019/07/obj_det.gif" />
