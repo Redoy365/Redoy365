@@ -41,5 +41,5 @@ my works. Currently I am working on Python with machine learning.
 
 ## Examples of Work
 
-<img width="140" src="https://iq.opengenus.org/content/images/2019/07/obj_det.gif" />
-<img width="140" src="https://media1.giphy.com/media/lkdIhnHHnFma6xvICt/giphy.gif?cid=ecf05e47rpq27rz6f1twetirbdixitw7mtjj30qnzi5cbke8&rid=giphy.gif&ct=g" />
+<img width="280" src="https://iq.opengenus.org/content/images/2019/07/obj_det.gif" />
+<img width="340" src="https://media1.giphy.com/media/lkdIhnHHnFma6xvICt/giphy.gif?cid=ecf05e47rpq27rz6f1twetirbdixitw7mtjj30qnzi5cbke8&rid=giphy.gif&ct=g" /
