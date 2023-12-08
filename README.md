@@ -1,4 +1,4 @@
-![I am a machine learning Job holder]([https://pbs.twimg.com/profile_banners/1284821731287298049/1695030889/600x200](https://media.licdn.com/dms/image/D5616AQG4IMaAXlwNdQ/profile-displaybackgroundimage-shrink_350_1400/0/1694415562400?e=1707350400&v=beta&t=EIlNFppxskQjabzFi5eLSrDGPaV03DwavmGRGJ2laIE))
+![I am a machine learning Job holder](https://media.licdn.com/dms/image/D5616AQG4IMaAXlwNdQ/profile-displaybackgroundimage-shrink_350_1400/0/1694415562400?e=1707350400&v=beta&t=EIlNFppxskQjabzFi5eLSrDGPaV03DwavmGRGJ2laIE)
 
 ### Hi there 👋, my name is MD.REDOY SARDER
 #### I am a machine learning Job holder
