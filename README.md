@@ -1,4 +1,8 @@
-https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+  <h2 align="center">GitHub Profile Trophy</h2>
+  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
+</p>
 
 ![I am a machine learning Job holder](https://media.licdn.com/dms/image/D5616AQG4IMaAXlwNdQ/profile-displaybackgroundimage-shrink_350_1400/0/1694415562400?e=1707350400&v=beta&t=EIlNFppxskQjabzFi5eLSrDGPaV03DwavmGRGJ2laIE)
 
