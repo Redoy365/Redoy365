@@ -21,6 +21,7 @@ my works. Currently I am working on Python with machine learning.
 - 💬 Ask me about Machine Learning 
 - 📫 How to reach me: https://redoy365.github.io/realtime/ 
 - 📫 How to reach me: https://www.w3profile.com/redoytime/
+- 🌐 Kaggle Account Link : https://www.kaggle.com/mdredoysarder
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DeveloperRedoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-redoy-70928b206//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/FreelancerRedoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://redoy365.github.io/realtime/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/syber_redoy_php)  
 
